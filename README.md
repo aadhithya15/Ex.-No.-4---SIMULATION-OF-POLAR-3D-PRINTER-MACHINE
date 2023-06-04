@@ -27,7 +27,7 @@
 
 ## OUTPUT:
 
-![output](1.png)
+![1](https://github.com/aadhithya15/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/121165812/403c0739-27ac-40f5-bd6d-11be2eff5987)
 ### Y-Axis Base:
 The Y-axis base is the foundational component of the printer's Y-axis assembly. It serves as the mounting platform for other Y-axis components, such as smooth rods, bearings, motors, and the print bed. The Y-axis base provides stability and support to ensure accurate movement along the Y-axis.
 
